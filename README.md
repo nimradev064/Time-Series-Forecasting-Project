@@ -8,3 +8,14 @@ Next, two experiments are conducted to improve the baseline model, focusing on h
 To ensure training efficiency, a checkpoint mechanism is implemented, allowing model weights to be saved and training to resume from a specific point if necessary. A retraining strategy is also designed to handle new data and maintain accuracy, addressing potential performance degradation over time.
 
 Finally, the project deliverables include a detailed Jupyter Notebook with data exploration, model development, experiments, and evaluation, alongside a report summarizing findings, experiment outcomes, and future steps for improvement.
+
+## How to run the project
+
+In order to run one of the project please follow these steps:
+
+**1.** Clone the  repository
+
+```
+git clone https://github.com/nimradev064/Time-Series-Forecasting-Project.git
+```
+```
