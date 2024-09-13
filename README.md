@@ -18,4 +18,11 @@ In order to run one of the project please follow these steps:
 ```
 git clone https://github.com/nimradev064/Time-Series-Forecasting-Project.git
 ```
-```
+**2.** Upload the code on Colab 
+<br>
+
+
+https://github.com/user-attachments/assets/e020a0e7-d2e8-4355-8464-2ceb900bd403
+
+
+
